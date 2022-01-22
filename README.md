@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matejboska-dev
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on easy and starting projects
+- 💞️ I’m looking to get experience 
 - 📫 How to reach me: matej0boska@gmail.com
 
 <!---
