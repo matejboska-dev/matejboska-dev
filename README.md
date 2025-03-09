@@ -1,5 +1,5 @@
 - contact me: matej0boska@gmial.com
-- Love working in python and making flask aps
+- Love working in python and making flask apps
 - AI is my second name
 - Would love to create my own chatbot one day!
 <!---
